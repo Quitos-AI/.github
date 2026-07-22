@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/quitosai-logo.png" alt="Quitos AI logo" width="360" />
+<img src="../assets/quitosai-logo.png" alt="Quitos AI logo" width="360" />
 
 # Quitos AI
 
